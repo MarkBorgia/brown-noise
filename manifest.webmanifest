@@ -1,0 +1,31 @@
+{
+  "name": "Brown Noise — Offline Sound Machine",
+  "short_name": "Brown Noise",
+  "description": "Deep, rumbling brown noise generated entirely on your device, with fullness, warmth and rumble controls. Works fully offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0f14",
+  "theme_color": "#0b0f14",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20512%20512%22%3E%3Crect%20width=%22512%22%20height=%22512%22%20rx=%22104%22%20fill=%22%230b0f14%22/%3E%3Cpath%20d=%22M64%20288%20Q144%20144%20224%20288%20T384%20288%22%20fill=%22none%22%20stroke=%22%23d9a86b%22%20stroke-width=%2230%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M112%20352%20Q168%20272%20224%20352%20T336%20352%22%20fill=%22none%22%20stroke=%22%2366727e%22%20stroke-width=%2216%22%20stroke-linecap=%22round%22/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20512%20512%22%3E%3Crect%20width=%22512%22%20height=%22512%22%20rx=%22104%22%20fill=%22%230b0f14%22/%3E%3Cpath%20d=%22M64%20288%20Q144%20144%20224%20288%20T384%20288%22%20fill=%22none%22%20stroke=%22%23d9a86b%22%20stroke-width=%2230%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M112%20352%20Q168%20272%20224%20352%20T336%20352%22%20fill=%22none%22%20stroke=%22%2366727e%22%20stroke-width=%2216%22%20stroke-linecap=%22round%22/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20512%20512%22%3E%3Crect%20width=%22512%22%20height=%22512%22%20fill=%22%230b0f14%22/%3E%3Cg%20transform=%22translate(96%2096)%20scale(0.625)%22%3E%3Cpath%20d=%22M64%20288%20Q144%20144%20224%20288%20T384%20288%22%20fill=%22none%22%20stroke=%22%23d9a86b%22%20stroke-width=%2240%22%20stroke-linecap=%22round%22/%3E%3Cpath%20d=%22M112%20352%20Q168%20272%20224%20352%20T336%20352%22%20fill=%22none%22%20stroke=%22%2366727e%22%20stroke-width=%2222%22%20stroke-linecap=%22round%22/%3E%3C/g%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
